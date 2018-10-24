@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/operatioManual/main",
+    "pages/personalInfo/main",
+    "pages/SNlist/main",
+    "pages/submittedSuc/main",
+    "pages/submitSN/main",
+    "pages/homepage/main",
+    "pages/test/main",
+    "pages/logs/main",
+    "pages/canvas/main",
+    "pages/counter/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}
